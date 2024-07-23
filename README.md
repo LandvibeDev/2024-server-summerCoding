@@ -9,6 +9,8 @@
 
 ### 일지
 - [1주차 일지](https://github.com/LandvibeDev/2024-server-summerCoding/blob/main/%EC%9D%BC%EC%A7%80/1%EC%A3%BC%EC%B0%A8%20%EC%9D%BC%EC%A7%80.md)
+- [2주차 일지]()
+- [3주차 일지](https://github.com/LandvibeDev/2024-server-summerCoding/blob/main/%EC%9D%BC%EC%A7%80/3%EC%A3%BC%EC%B0%A8%20%EC%9D%BC%EC%A7%80.md)
 
 ### 과제
 - [숫자 야구](https://github.com/LandvibeDev/java-baseball-2)
