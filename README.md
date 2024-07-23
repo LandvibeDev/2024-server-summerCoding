@@ -14,4 +14,6 @@
 
 ### 과제
 - [숫자 야구](https://github.com/LandvibeDev/java-baseball-2)
+- [로또 게임](https://github.com/LandvibeDev/java-lotto-2)
+- [간단한 쇼핑몰 만들어보기](https://github.com/tmdcheol/spring-summer-coding)
 
