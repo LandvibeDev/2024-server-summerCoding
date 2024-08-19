@@ -12,9 +12,11 @@
 - [2주차 일지](https://github.com/LandvibeDev/2024-server-summerCoding/blob/main/%EC%9D%BC%EC%A7%80/2%EC%A3%BC%EC%B0%A8%20%EC%9D%BC%EC%A7%80.md)
 - [3주차 일지](https://github.com/LandvibeDev/2024-server-summerCoding/blob/main/%EC%9D%BC%EC%A7%80/3%EC%A3%BC%EC%B0%A8%20%EC%9D%BC%EC%A7%80.md)
 - [4주차 일지](https://github.com/LandvibeDev/2024-server-summerCoding/blob/main/%EC%9D%BC%EC%A7%80/4%EC%A3%BC%EC%B0%A8%20%EC%9D%BC%EC%A7%80.md)
+- [5주차 일지](https://github.com/LandvibeDev/2024-server-summerCoding/blob/main/%EC%9D%BC%EC%A7%80/6%EC%A3%BC%EC%B0%A8%20%EC%9D%BC%EC%A7%80.md)
 
 ### 과제
 - [숫자 야구](https://github.com/LandvibeDev/java-baseball-2)
 - [로또 게임](https://github.com/LandvibeDev/java-lotto-2)
 - [간단한 쇼핑몰 만들어보기](https://github.com/tmdcheol/spring-summer-coding)
 - [스프링5 프로그래밍 입문](https://github.com/LandvibeDev/2024-spring5-programming-introduction)
+- [스프링 랜드로그(블로그 만들기)](https://github.com/LandvibeDev/2024-spring-landlog)
